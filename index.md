@@ -14,6 +14,6 @@ This one child from a rival school died after substance abuse. I was deeply affe
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Big Turl himself](//assets/images/turl.jpg)
 
 
