@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Header 1
+## The Story
 This one child from a rival school died after substance abuse. I was deeply affected by his loss so I 
   decided to spent the year off in order to reconsider my career options. However, I don't have any money 
   in order to pay for this entire year off. Actually.. I only have friends. This kid David Mosden wrote this entire code for 
