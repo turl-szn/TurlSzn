@@ -12,7 +12,7 @@ This one child from a rival school died after substance abuse. I was deeply affe
   I'm not joking. Latur DAWG..
 
 
-### Large image
+### Big Turl
 
 ![Big Turl himself](https://turl-szn.github.io/TurlSzn/assets/images/turl.jpg)
 
