@@ -3,17 +3,11 @@ layout: default
 ---
 
 ## The Story
-This one child from a rival school died after substance abuse. I was deeply affected by his loss so I 
-  decided to spent the year off in order to reconsider my career options. However, I don't have any money 
-  in order to pay for this entire year off. Actually.. I only have friends. This kid David Mosden wrote this entire code for 
-  me as I'm crying listening to Jaden's sophomore album. I'm on track K right now. He's a great artist he's just mad young 
-  so he'll be fine. I have plenty of shooters who recognize this struggle so I'll be chillin' for just about my entire life. 
-  I really do hope that guy who throws footballs makes the league he's kinda the best quarterback I've ever seen throw a football. 
-  I'm not joking. Latur DAWG..
+Soon.
 
 
 ### Big Turl
 
-![Big Turl himself](https://turl-szn.github.io/TurlSzn/assets/images/turl.jpg)
+![Big Turl himself](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwiY1IXCnczjAhXDl-AKHfiFAjUQjRx6BAgBEAQ&url=http%3A%2F%2Fwww.hufsd.edu%2Farticles%2F2018%2Fjune%2F21c.html&psig=AOvVaw3FZv-qB1TRt2bIqy3CYWUY&ust=1564012172852701)
 
 
